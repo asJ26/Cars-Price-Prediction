@@ -1,7 +1,7 @@
 # Cars-Price-Prediction
 MSCS Intro to Data Science course project on predicting car prices 
 
-#Introduction 
+# Introduction 
 It is usual in many industrialized countries to lease a car rather than buy it entirely.
 A lease is a legally binding contract between a buyer and a seller (or a third party -
 commonly a bank, insurance company, or other financial institution) in which the
